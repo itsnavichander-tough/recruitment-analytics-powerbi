@@ -101,8 +101,8 @@ Based on the current dashboard:
 | File | Description |
 |---|---|
 | `Recruitment_Analytics.pbix` | Power BI dashboard/report |
-| `dashboard-overview.png` | Dashboard overview screenshot |
-| `funnel-analysis.png` | Recruitment funnel analysis screenshot |
+| `Performance_overview.png` | Dashboard overview screenshot |
+| `Conversion_stage.png` | Recruitment funnel analysis screenshot |
 
 ---
 
