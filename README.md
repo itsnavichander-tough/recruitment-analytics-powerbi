@@ -41,7 +41,7 @@ The dashboard helps answer questions such as:
 
 Provides an executive-level overview of recruitment performance using KPI cards and recruitment-stage metrics.
 
-![Recruitment Analytics Dashboard](dashboard-overview.png)
+![Recruitment Analytics Dashboard](Performance_overview.png)
 
 ---
 
@@ -53,7 +53,7 @@ Provides detailed analysis of:
 - Recruitment funnel progression
 - Conversion rate by stage
 
-![Recruitment Funnel Analysis](funnel-analysis.png)
+![Recruitment Funnel Analysis](Conversion_stage.png)
 
 ---
 
